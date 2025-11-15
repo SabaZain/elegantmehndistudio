@@ -28,7 +28,7 @@ const Navbar = () => {
             height={70}
             className="rounded-full"
           />
-          <h1 className="text-2xl font-bold text-green-700">Elegant Mehndi Studio</h1>
+          <h1 className="text-2xl font-bold text-green-700 font-serif">Elegant Mehndi Studio</h1>
         </div>
 
         {/* Desktop Links */}

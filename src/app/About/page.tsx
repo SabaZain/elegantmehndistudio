@@ -2,11 +2,11 @@ export default function About() {
   return (
     <section className="min-h-screen bg-gradient-to-b from-amber-50 via-rose-50 to-amber-100 text-gray-800 py-16 px-6">
       <div className="max-w-5xl mx-auto text-center mb-12">
-        <h1 className="text-3xl font-extrabold text-rose-700 mb-4 font-serif">
+        <h1 className="text-3xl text-center font-extrabold text-rose-700 mb-4 font-serif">
           🌿 About Elegant Mehndi Studio
         </h1>
         <p className="text-lg text-gray-700 font-serif">
-          Where tradition meets elegance ,creating timeless mehndi art for every special moment.
+          Where tradition meets elegance creating timeless mehndi art for every special moment.
         </p>
       </div>
 

@@ -15,7 +15,7 @@ export default function Pricing() {
         <table className="min-w-full text-left text-black font-serif">
           <thead className="bg-lime-200 text-red-800 text-lg font-semibold">
             <tr>
-              <th className="py-4 px-6 border-b">Design Area</th>
+              <th className="py-4 px-8 border-b">Design Area</th>
               <th className="py-4 px-6 border-b text-right">Price (PKR)</th>
             </tr>
           </thead>
@@ -53,7 +53,7 @@ export default function Pricing() {
         <h2 className="text-2xl font-semibold text-rose-700 mb-2 font-serif">
           ✨ Special Occasions 
         </h2>
-        <p className="text-md text-lime-800 font-serif font-semibold">
+        <p className="text-md text-lime-800 text-center font-serif font-semibold">
           For bridal, Eid, party, or group events, please contact us directly for customized packages and discounts.
           Our pricing may vary based on design complexity, travel distance, and booking date.
         </p>
