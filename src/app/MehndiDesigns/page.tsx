@@ -58,7 +58,7 @@ export default function Gallery() {
   return (
     <section className="min-h-screen bg-gradient-to-b from-amber-50 via-rose-50 to-amber-100 py-16 px-6 text-gray-800">
       <div className="max-w-5xl mx-auto text-center mb-12">
-        <h1 className="text-4xl font-extrabold text-rose-700 mb-3 font-serif">
+        <h1 className="text-3xl font-extrabold text-rose-700 mb-3 font-serif">
           🌸 Elegant Mehndi Designs
         </h1>
         <p className="text-lg text-gray-700 font-serif">
@@ -83,7 +83,7 @@ export default function Gallery() {
       </div>
 
       <p className="text-center text-md text-gray-600 mt-10 italic font-serif">
-        🌿 More designs available on our Instagram — follow us for daily updates!
+        🌿 More designs available on our Facebook — follow us for daily updates!
       </p>
 
       

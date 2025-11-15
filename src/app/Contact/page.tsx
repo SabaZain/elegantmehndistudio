@@ -1,7 +1,7 @@
 export default function Contact() {
   return (
     <div className="bg-white max-w-full mx-auto bg-gradient-to-br from-amber-100 via-rose-50 to-amber-200 rounded-2xl shadow-xl p-8 text-gray-800 border border-amber-300">
-      <h1 className="text-4xl font-extrabold mb-8 text-center text-rose-700 font-serif">
+      <h1 className="text-2xl font-extrabold mb-8 text-center text-rose-700 font-serif">
         🌸 Contact Elegant Mehndi Studio
       </h1>
 
